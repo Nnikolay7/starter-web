@@ -1,0 +1,1 @@
+You can use the how to, get started, new feature, and API reference documentation to develop tools to access and manage mailbox data from services, websites, desktop computers, and mobile devices, and to create custom solutions for email, calendar, contacts, and other items that are stored in Exchange Online or on an Exchange 2010, 2013, 2016, and 2019 server.
