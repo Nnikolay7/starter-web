@@ -1,3 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
+
+## Technical topics
+Devops master course for technical project managers who can develop in IT and earm more money that they do it right now. Never back down!!! Be the best fuck the rest!
