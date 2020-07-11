@@ -1,5 +1,5 @@
 # Starter Web- Project
-This is git project which we are using as Sample project
+This is git project which we are using as Sample project. Adding git rebase lectures.
 ## Introduction
 A lot of lectures are already 
 
