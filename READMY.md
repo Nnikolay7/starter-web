@@ -12,3 +12,4 @@ Adding GIT Comparisons lecture
 ## GITHub content
 
 Comparison with Repo
+hm, very interesting
