@@ -12,4 +12,4 @@ Adding GIT Comparisons lecture
 ## GITHub content
 
 Comparison with Repo
-hm, very interesting
+hm, very interesting/ adding new lecture PM master!!!
